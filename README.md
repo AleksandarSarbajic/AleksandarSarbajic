@@ -13,7 +13,7 @@ Skills: REACT / REDUX / JS / HTML / CSS
   
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AleksandarSarbajic&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandarSarbajic&layout=compact" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandarSarbajic&layout=compact" />
 </div>
 
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
