@@ -12,7 +12,7 @@ Skills: REACT / REDUX / JS / HTML / CSS
 
   
 <div align="left" style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleksandarSarbajic&show_icons=true&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AleksandarSarbajic&show_icons=true&theme=radical" />
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandarSarbajic&layout=compact" />
 </div>
 
