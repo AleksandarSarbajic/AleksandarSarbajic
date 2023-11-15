@@ -2,7 +2,7 @@
 #### Front end developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: REACT / REDUX / JS / HTML / CSS
+Skills: REACT / NEXTJS / REDUX / JS / HTML / CSS / SASS / STYLED COMPONENTS
 
 - I'm currently learning TypeScript 📖
 - I'm working on todo list inspired by Nothing Phone
