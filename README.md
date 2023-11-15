@@ -1,28 +1,26 @@
-# Hi there 👋, I am Aleksandar Sarbajic
-#### Front end developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+# Hi there 👋, I'm Aleksandar Sarbajic
+## Front end developer
 
-Skills: REACT / NEXTJS / REDUX / JS / HTML / CSS / SASS / STYLED COMPONENTS
+I'm a 21-year-old introvert who found peace of mind in writing code.
 
-- I'm currently learning TypeScript 📖
-- I'm working on todo list inspired by Nothing Phone
+
+
+- 📖 I'm currently learning TypeScript
+- 👨‍💻 I'm working on the to-do list inspired by Nothing Phone
+- 👯 I'm looking for a job opportunity
+- ⚡ Fun fact: I love to work out and cook
+- 💬 Ask me about anything and everything!
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AleksandarSarbajic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dondacrack/)  
+### [Portofolio](https://aleksandarsarbajic.com/)
+
+### Connect with me:
 
 
-  
-<div align="left" style="display: flex;">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AleksandarSarbajic&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandarSarbajic&layout=compact" />
-</div>
+[![Instagram](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aleksandar-%C5%A1arbaji%C4%87-77275815a/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dondacrack/?hl=sr)
+[![Instagram](https://skillicons.dev/icons?i=twitter)]([https://www.instagram.com/dondacrack/?hl=sr](https://twitter.com/DondaCrack))
 
 
-&nbsp;
- 
-<div align="left" style="display: flex;">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-</div>
+###  Languages and Tools:
 
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,sass,styledcomponents,git)
