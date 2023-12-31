@@ -23,4 +23,4 @@ I'm a 21-year-old introvert who found peace of mind in writing code.
 
 ###  Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,sass,styledcomponents,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,sass,styledcomponents,supabase,git)
