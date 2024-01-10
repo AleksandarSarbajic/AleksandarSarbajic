@@ -6,7 +6,7 @@ I'm a 21-year-old introvert who found peace of mind in writing code.
 
 
 - 📖 I'm currently learning TypeScript
-- 👨‍💻 I'm working on the to-do list inspired by Nothing Phone
+- 👨‍💻 Just finished my TypeScript project, finding a new inspiration to work on
 - 👯 I'm looking for a job opportunity
 - ⚡ Fun fact: I love to work out and cook
 - 💬 Ask me about anything and everything!
