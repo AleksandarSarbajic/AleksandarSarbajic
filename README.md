@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Aleksandar Sarbajic
-## Front end developer
+## Fullstack developer
 
 I'm a 22-year-old introvert who found peace of mind in writing code.
 
 
 
-- 📖 I'm currently learning TypeScript
-- 👨‍💻 Just finished my TypeScript project, finding a new inspiration to work on
+- 📖 I'm currently learning how to improve on every aspect of dev job
+- 👨‍💻 Just finished my NextJs 15 TypeScript project, finding a new inspiration to work on
 - 👯 I'm looking for a job opportunity
 - ⚡ Fun fact: I love to work out and cook
 - 💬 Ask me about anything and everything!
@@ -23,4 +23,4 @@ I'm a 22-year-old introvert who found peace of mind in writing code.
 
 ###  Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,sass,styledcomponents,mongodb,prisma,supabase,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,sass,styledcomponents,tailwind,mongodb,prisma,supabase,git)
