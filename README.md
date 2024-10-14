@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Aleksandar Sarbajic
 ## Front end developer
 
-I'm a 21-year-old introvert who found peace of mind in writing code.
+I'm a 22-year-old introvert who found peace of mind in writing code.
 
 
 
