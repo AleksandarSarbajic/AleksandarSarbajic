@@ -11,7 +11,7 @@ I'm a 22-year-old introvert who found peace of mind in writing code.
 - ⚡ Fun fact: I love to work out and cook
 - 💬 Ask me about anything and everything!
   
-### [Portofolio](https://aleksandarsarbajic.com/)
+### [Portfolio](https://aleksandarsarbajic.com/)
 
 ### Connect with me:
 
